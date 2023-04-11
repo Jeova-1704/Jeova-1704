@@ -1,9 +1,41 @@
-### Olá, mundo!🌍💻
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=header"/>
 
+
+<div align="center">
+  Olá, mundo!🌍💻
+</div>
+  
+  
 <br/>
   <hr/>
   <br/>
 <div/>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeova-1704&layout=compact&langs_count=6&theme=tokyonight)](https://github.com/Jeova-1704/github-readme-stats) 
-         ![picasion com_b4760c73d8864f762786f05809cb2156](https://user-images.githubusercontent.com/127805808/227081066-87af7499-c50c-4505-bca9-f7fb733da3b9.gif)
+  
+
+<div align="center">
+  <a href="https://github.com/Jeova-1704">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeova-1704&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeova-1704&layout=compact&langs_count=7&theme=radical&bg_color=0D1117"/>
+</div>
+  
+
+# IDEs e linguagens :
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40">
+</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=footer"/>
