@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  Olá, mundo!🌍💻
+  <h1> Olá, mundo!🌍💻 </h1>
 </div>
   
   
@@ -19,12 +19,16 @@
 </div>
   
 
-# IDEs e linguagens :
+# Linguagens :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40">
 </div>
   
+  
+# IDEs:
+  <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40">
+  </div>
   
   
   
