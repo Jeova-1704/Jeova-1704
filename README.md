@@ -35,11 +35,4 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=footer"/>
