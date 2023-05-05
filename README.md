@@ -1,5 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=header"/>
 
+ `🎓💻 University student of software engineering` `🇧🇷 Brazilian`
 
 <div align="center">
   <h1> Olá, mundo!🌍💻 </h1>
