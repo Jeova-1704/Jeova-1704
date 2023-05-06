@@ -5,14 +5,7 @@
 <div align="center">
   <h1> Olá, mundo!🌍💻 </h1>
 </div>
-  
-  
-<br/>
-  <hr/>
-  <br/>
-<div/>
-  
-
+ 
 <div align="center">
   <a href="https://github.com/Jeova-1704">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeova-1704&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
@@ -20,15 +13,20 @@
 </div>
   
 
-# Tecnologias :
-<div>
+<div align="center">
+ <h1>Tecnologias: </h1>
+</div>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40">
 </div>
   
   
-# IDEs:
-  <div>
+<div align="center">
+ <h1>IDEs: </h1>
+</div>
+  <div align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" width="40">
   </div>
