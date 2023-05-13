@@ -2,9 +2,7 @@
 
  `🎓💻 University student of software engineering` `🇧🇷 Brazilian`
 
-<div align="center">
-  <h1> Olá, mundo!🌍💻 </h1>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=50&pause=1000&color=900020&width=1000&height=65&lines=Ol%C3%A1+%2C+mundo!+;Bem-Vindo(a)+!+💻)](https://git.io/typing-svg)
  
 <div align="center">
   <a href="https://github.com/Jeova-1704">
