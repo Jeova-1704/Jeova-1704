@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=header"/>
 
-<pre>                               🎓💻 University student of software engineering 
+<pre>                                 🎓💻 University student of software engineering 
                                                      🇧🇷 Brazilian           </pre>
  
 <div align="center">
