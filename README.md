@@ -29,10 +29,5 @@
     <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   </a>
 </p>
-  
-  
-  
-  
-  
-  
+    
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=footer"/>
