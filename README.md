@@ -8,6 +8,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jeova-1704&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=000000"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeova-1704&layout=compact&langs_count=7&theme=radical&bg_color=000000"/>
 </div>
+  <div>
+  <img align="left" height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=Jeova-1704&show_icons=true&theme=radical"/>
+  <img align="right" height="180em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=Jeova-1704&layout=compact&show_icons=true&theme=radical"/>
+</div>
   
   
 
