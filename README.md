@@ -13,12 +13,14 @@
  <h1>Tecnologias: </h1>
 </div>
 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,git" />
   </a>
 </p>
   
+
 
 <div align="center">
  <h1>IDEs: </h1>
