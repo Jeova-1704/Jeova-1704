@@ -3,6 +3,10 @@
 <pre>                                 🎓💻 University student of software engineering 
                                                        🇧🇷 Brazilian           </pre>
  
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jeovab115@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jeová-bezerra-leite-29127826a/)  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/Jeova_1704/)
+
+
 <div align="center">
   <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=Jeova-1704&show_icons=true&theme=radical&bg_color=000000"/>
   <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=Jeova-1704&layout=compact&show_icons=true&theme=radical&bg_color=000000"/>
@@ -18,9 +22,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,git,java" />
   </a>
-</p>
-  
-
+</p>  
 
 <div align="center">
  <h1>IDEs: </h1>
