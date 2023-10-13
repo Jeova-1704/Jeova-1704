@@ -20,7 +20,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=technologies;Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,java,spring,github" />
+    <img src="https://skillicons.dev/icons?i=py,git,java,spring,github,discord,maven,mysql,sqlite,postman" />
   </a>
 </p>  
 
@@ -28,9 +28,7 @@
  <h1>IDEs: </h1>
 </div>
 <p align="center">
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-    <img src = "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode" />
   </a>
 </p>
     
