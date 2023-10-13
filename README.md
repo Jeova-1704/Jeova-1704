@@ -21,6 +21,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,git,java,spring,github,discord,maven,mysql,sqlite,postman" />
+    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
   </a>
 </p>  
 
