@@ -32,7 +32,7 @@
  <h1>IDEs: </h1>
 </div>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,vscode" />
   </a>
 </p>
 
