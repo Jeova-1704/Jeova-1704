@@ -11,7 +11,6 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=Jeova-1704&show_icons=true&theme=radical&bg_color=000000" target="_blank" />
-  <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=Jeova-1704&layout=compact&show_icons=true&theme=radical&bg_color=000000"/>
 </div>
 
 ---
@@ -25,7 +24,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=technologies;Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,git,java,spring,maven,mysql,postgres,postman" />
+    <img src="https://skillicons.dev/icons?i=fastapi,py,django,git,java,spring,maven,mysql,postgres,postman" />
   </a>
 </p>  
 
